@@ -74,7 +74,7 @@ export default function PracticalExperience() {
         <div>
           <p>{company}</p>
           <p>{position}</p>
-          <p>{responsibilities}</p>
+          <p className="responsibilities">{responsibilities}</p>
           <p>{startDate}</p>
           <p>{endDate}</p>
 
